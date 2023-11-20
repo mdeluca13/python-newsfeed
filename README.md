@@ -10,6 +10,8 @@ The Python Newsfeed allowed me to demonstrate my knowledge of Python.
 
 You can visit the deployed site [here](https://mdeluca-python-newsfeed-ff90091350ec.herokuapp.com/). 
 
+![Screenshot of Python Newsfeed Homepage](/app/utils/images/python-newsfeed-homepage.png)
+
 ## Usage
 
 1. You can go to the Login page to signup or login to the site.
